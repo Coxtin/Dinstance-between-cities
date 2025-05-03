@@ -1,0 +1,126 @@
+50 74
+Bucuresti
+Cluj-Napoca
+Timisoara
+Iasi
+Constanta
+Brasov
+Craiova
+Galati
+Ploiesti
+Oradea
+Arad
+Sibiu
+Braila
+Pitesti
+Bacau
+Targu-Mures
+Baia-Mare
+Buzau
+Satu-Mare
+Ramnicu-Valcea
+Suceava
+Piatra-Neamt
+Drobeta-Turnu-Severin
+Targoviste
+Focsani
+Zalau
+Deva
+Resita
+Tulcea
+Alexandria
+Giurgiu
+Hunedoara
+Petrosani
+Campina
+Slatina
+Alba-Iulia
+Turda
+Mangalia
+Sighetu-Marmatiei
+Codlea
+Ocna-Mures
+Roman
+Bistrita
+Ramnicu-Searat
+Curtea-de-Arges
+Lupeni
+Fagaras
+Lugoj
+Medias
+Huedin
+Bucuresti Cluj-Napoca 100
+Cluj-Napoca Timisoara 101
+Timisoara Iasi 102
+Iasi Constanta 103
+Constanta Brasov 104
+Brasov Craiova 105
+Craiova Galati 106
+Galati Ploiesti 107
+Ploiesti Oradea 108
+Oradea Arad 109
+Arad Sibiu 110
+Sibiu Braila 111
+Braila Pitesti 112
+Pitesti Bacau 113
+Bacau Targu-Mures 114
+Targu-Mures Baia-Mare 115
+Baia-Mare Buzau 116
+Buzau Satu-Mare 117
+Satu-Mare Ramnicu-Valcea 118
+Ramnicu-Valcea Suceava 119
+Suceava Piatra-Neamt 120
+Piatra-Neamt Drobeta-Turnu-Severin 121
+Drobeta-Turnu-Severin Targoviste 122
+Targoviste Focsani 123
+Focsani Zalau 124
+Zalau Deva 125
+Deva Resita 126
+Resita Tulcea 127
+Tulcea Alexandria 128
+Alexandria Giurgiu 129
+Giurgiu Hunedoara 130
+Hunedoara Petrosani 131
+Petrosani Campina 132
+Campina Slatina 133
+Slatina Alba-Iulia 134
+Alba-Iulia Turda 135
+Turda Mangalia 136
+Mangalia Sighetu-Marmatiei 137
+Sighetu-Marmatiei Codlea 138
+Codlea Ocna-Mures 139
+Ocna-Mures Roman 140
+Roman Bistrita 141
+Bistrita Ramnicu-Searat 142
+Ramnicu-Searat Curtea-de-Arges 143
+Curtea-de-Arges Lupeni 144
+Lupeni Fagaras 145
+Fagaras Lugoj 146
+Lugoj Medias 147
+Medias Huedin 148
+Bucuresti Timisoara 150
+Cluj-Napoca Iasi 151
+Timisoara Constanta 152
+Iasi Brasov 153
+Constanta Craiova 154
+Brasov Galati 155
+Craiova Ploiesti 156
+Galati Oradea 157
+Ploiesti Arad 158
+Oradea Sibiu 159
+Arad Braila 160
+Sibiu Pitesti 161
+Braila Bacau 162
+Pitesti Targu-Mures 163
+Bacau Baia-Mare 164
+Targu-Mures Buzau 165
+Baia-Mare Satu-Mare 166
+Buzau Ramnicu-Valcea 167
+Satu-Mare Suceava 168
+Ramnicu-Valcea Piatra-Neamt 169
+Suceava Drobeta-Turnu-Severin 170
+Piatra-Neamt Targoviste 171
+Drobeta-Turnu-Severin Focsani 172
+Targoviste Zalau 173
+Focsani Deva 174
+Zalau Resita 175
